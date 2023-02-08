@@ -1,3 +1,11 @@
-*.ipynb_*
+# Jupyter Notebook
+.ipynb_checkpoints
 
+# Data files
 *.csv
+
+# Environments
+.env
+
+# PyCharm configuration files
+.idea
