@@ -4,6 +4,10 @@
 # Data files
 *.csv
 
+# Images
+*.png
+*.pdf
+
 # Environments
 .env
 
